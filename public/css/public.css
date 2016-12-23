@@ -1,0 +1,113 @@
+body, h1, h2, h3, h4, p, div, span, dl, dt ,dd,section,nav,header,footer,input,button {
+    padding: 0;
+    margin: 0;
+    font-family: "Microsoft YaHei";
+    height: auto;
+}
+
+img, a {
+    border: 0;
+    text-decoration: none;
+}
+ul,li{list-style:none;margin:0;padding:0}
+body,html,div,p,span,ul,li,dd,dl,a,img,input,em,b,dt,h1,h2,h3,h4,ol,table,tr,td,th,h5{
+    margin:0;
+    padding:0;
+    border:0;
+}
+body{
+    font-size: 12px;
+    line-height: 24px;
+    color:#333;
+    font-family: "Microsoft YaHei";
+    background: #fff;
+    width:100%;
+}
+input {
+    background: none;
+    border:none;
+    font-family: "Microsoft YaHei";
+   outline-style: none;
+}
+ul,li,dl,dd {
+    list-style: none;
+}
+h1,h2,h3,h4,h5,b{
+    font-size:100%;
+    font-weight: normal;
+}
+table{
+    border-collapse:collapse;
+    border-spacing:0;
+}
+a{
+    color:#666;
+    text-decoration: none;
+}
+.clearfix { 
+    *zoom: 1; 
+
+} 
+.clearfix:before, .clearfix:after { 
+    display: table; 
+    line-height: 0; 
+    content: ""; 
+} 
+.clearfix:after { 
+    clear: both; 
+}
+a:link {
+    color: #fff;
+}
+
+a:visited {
+    color: #fff;
+}
+
+a:active {
+    color: #fff;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.ml35 {
+    margin-left: 35px !important;
+}
+.mr35{
+    margin-right:35px;
+}
+.mr7{
+    margin-right: 7px;
+}
+.pt22{
+    padding-top: 22px;
+}
+.mb45{
+    margin-bottom: 45px !important;
+}
+.mb20{
+    margin-bottom: 20px;
+}
+.mt20{
+    margin-top:20px;
+}
+　input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    /* WebKit browsers */
+    color: #999;
+}
+
+　input:-moz-placeholder, textarea::-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #999;
+}
+
+input:-ms-input-placeholder,textarea:-ms-input-placeholder {
+    /* Internet Explorer 10+ */
+    color: #999;
+}
