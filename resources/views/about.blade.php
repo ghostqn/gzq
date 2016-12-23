@@ -74,7 +74,7 @@
                 <div class="us_tabbot">
                     <div class="us_tabbox">
                         <ul>
-                            <li onclick="location.href='1.html'">
+                            <li onclick="location.href='news'">
                                 <div class="li_in">
                                     <h4>
                                         <a href="javascript:void(0);">
@@ -93,7 +93,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li onclick="location.href='2.html'">
+                            <li onclick="location.href='news'">
                                 <div class="li_in">
                                     <h4>
                                         <a href="javascript:void(0);">
@@ -112,7 +112,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li  onclick="location.href='3.html'">
+                            <li  onclick="location.href='news'">
                                 <div class="li_in">
                                     <h4>
                                         <a href="javascript:void(0);">
@@ -129,7 +129,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li  onclick="location.href='4.html'">
+                            <li  onclick="location.href='news'">
                                 <div class="li_in">
                                     <h4>
                                         <a href="javascript:void(0);">
@@ -146,7 +146,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li onclick="location.href='5.html'">
+                            <li onclick="location.href='news'">
                                 <div class="li_in">
                                     <h4>
                                         <a href="javascript:void(0);">
@@ -163,7 +163,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li onclick="location.href='6.html'">
+                            <li onclick="location.href='news'">
                                 <div class="li_in">
                                     <h4>
                                         <a href="javascript:void(0);">
