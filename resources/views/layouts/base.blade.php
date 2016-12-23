@@ -160,7 +160,7 @@
     <a href="javascript:void(0);" class="qr">点我<br/>下载</a>
 </div>
 
-@yield('jscontent')
+@yield('script')
 
 </body>
 </html>

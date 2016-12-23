@@ -11,6 +11,7 @@
 |
 */
 
+<<<<<<< HEAD
 Route::get('/', 'IndexController@index');
 Route::get('/index', 'IndexController@index');
 Route::get('/product', 'ProductController@index');
@@ -18,3 +19,11 @@ Route::get('/case', 'CaseController@index');
 Route::get('/download', 'DownloadController@index');
 Route::get('/service', 'ServiceController@index');
 Route::get('/about', 'AboutController@index');
+=======
+Route::get('/a', function () {
+    return view('welcome');
+});
+Route::get('/', function () {
+    return view('welcome');
+});
+>>>>>>> ed4d09b85952d4304d691742e4e3aa62e0064719

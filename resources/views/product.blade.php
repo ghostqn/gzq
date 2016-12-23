@@ -216,7 +216,7 @@
     </div>
 @endsection
 
-@section('jscontent')
+@section('script')
 <script type="text/javascript">
     $(function() {
         $(".us_tabbox").eq(0).show();

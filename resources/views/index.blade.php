@@ -242,7 +242,7 @@
 @endsection
 
 
-@section('jscontent')
+@section('script')
 <script>
     (function($) {
         $.fn.numberAnimate = function(setting) {
